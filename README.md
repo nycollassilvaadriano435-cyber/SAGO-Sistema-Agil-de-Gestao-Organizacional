@@ -1,17 +1,43 @@
-# SAGO
-Projeto desenvolvido durante o curso de Análise e Desenvolvimento de Sistemas, para a matéria de Projeto Integrado Multidisciplinar (PIM), englobando todas as matérias do segundo semestre.
+# S.A.G.O. — Sistema Ágil de Gestão Organizacional
 
-## Sobre o projeto
+Projeto desenvolvido durante o curso de **Análise e Desenvolvimento de Sistemas**, como parte do Projeto Integrado Multidisciplinar (PIM).
 
-Este repositório contém os documentos, códigos e materiais desenvolvidos para o projeto SAGO.
+## 📋 Sobre o projeto
 
-## Tecnologias e disciplinas
+O S.A.G.O. é um projeto acadêmico que reúne os conhecimentos desenvolvidos ao longo do semestre nas áreas de desenvolvimento de interface web, banco de dados e desenvolvimento Back-end.
+
+O projeto foi desenvolvido aplicando conceitos de desenvolvimento de sistemas, organização de informações e programação.
+
+## 🛠️ Tecnologias e conhecimentos
+
+- C#
+- Desenvolvimento Web
+- Banco de Dados
+- HTML
+- CSS
+- JavaScript
+- Git
+
+## 📚 Disciplinas envolvidas
 
 - Desenvolvimento de Interface Web
-- Banco de Dados funcional
-- Back-end em C#
+- Banco de Dados
+- Desenvolvimento Back-end em C#
 
+## 📁 Documentação
 
-## Autor
+Este repositório contém materiais e documentos utilizados durante o desenvolvimento do projeto:
 
-Nycollas Adriano
+- Documentação do banco de dados
+- Documentação de desenvolvimento da interface web
+- Documentação do Projeto Integrado Multidisciplinar (PIM)
+
+## 🎓 Contexto acadêmico
+
+Projeto desenvolvido durante a graduação em **Análise e Desenvolvimento de Sistemas — UNIP**.
+
+## 👨‍💻 Autor
+
+**Nycollas Silva Adriano**
+
+[LinkedIn](https://linkedin.com/in/nycollas-silva-adriano)
