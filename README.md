@@ -1,6 +1,6 @@
 # S.A.G.O. — Sistema Ágil de Gestão Organizacional
 
-Projeto desenvolvido durante o curso de **Análise e Desenvolvimento de Sistemas**, como parte do Projeto Integrado Multidisciplinar (PIM).
+Projeto acadêmico de desenvolvimento de sistemas com foco em interface web, banco de dados e Back-end em C#.
 
 ## 📋 Sobre o projeto
 
